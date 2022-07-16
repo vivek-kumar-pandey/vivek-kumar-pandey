@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-kumar-pandey" alt="vivek-kumar-pandey" /></a> </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivek-kumar-pandey&amp;show_icons=true&amp;count_private=true&amp;line_height=24&amp;theme=radical&amp;">
+<img src="https://github-readme-stats.vercel.app/api?username=vivek-kumar-pandey&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=24&amp;theme=radical&amp;">
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-kumar-pandey&amp;theme=radical&amp;" alt="vivek-kumar-pandey" />
 
