@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" height="300" src="https://www.logicwaves.in/images/6.gif">
 
-- 🔭 I’m currently working on **Dost Education**
+- 🔭 I’m currently working on **Python/Flask**
 
 - 🌱 I’m currently learning **React JS**
 
