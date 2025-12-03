@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Python/Flask**
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **Web Development, PHP, Python, Flask**
+- 🌱 I’m currently learning **Gen AI**
 
 - 📫 How to reach me **vivek840499@gmail.com**
 
